@@ -1,0 +1,22 @@
+Circuit: * Z:\home\handiko\myLTspiceIV\examples\Educational\astable.asc
+
+.OP point found by inspection.
+
+Date: Fri Oct 26 05:32:00 2018
+Total elapsed time: 0.273 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 15511
+traniter = 15511
+tranpoints = 4158
+accept = 3416
+rejected = 742
+matrix size = 12
+fillins = 2
+solver = Normal
+Matrix Compiler1: 1.13 KB object code size  2.3/2.1/[1.7]
+Matrix Compiler2: 1.11 KB object code size  1.8/2.0/[1.7]
+
+

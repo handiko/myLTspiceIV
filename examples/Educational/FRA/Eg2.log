@@ -1,0 +1,8 @@
+Circuit: * Z:\home\handiko\myLTspiceIV\examples\Educational\FRA\Eg2.asc
+
+C8: Increased Cpar to 5e-011
+C5: Increased Cpar to 2.2e-011
+Direct Newton iteration for .op point succeeded.
+.step freq=50000
+.step freq=57434.9
+.step freq=65975.4

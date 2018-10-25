@@ -1,0 +1,30 @@
+Circuit: * Z:\home\handiko\myLTspiceIV\examples\Educational\logamp.asc
+
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+
+Date: Fri Oct 26 05:33:47 2018
+Total elapsed time: 0.826 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10057
+traniter = 10042
+tranpoints = 5022
+accept = 5022
+rejected = 0
+matrix size = 14
+fillins = 3
+solver = Normal
+Matrix Compiler1: 1.09 KB object code size  1.8/1.7/[1.4]
+Matrix Compiler2: 1.14 KB object code size  1.4/1.7/[1.4]
+
+
