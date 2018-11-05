@@ -16,7 +16,7 @@ R2 OUT 0 {R}
 .ac oct 1000 10Meg 25Meg
 .param x=.54 ; trimer postion
 .param R=50
-.param L=2.95u Lm=.27u C1=22p+x*25p C2=240p C3=39p
+.param L=2.95u Lm=.27u C1=22p+x*25p C2=240p C3=34p
 * This example schematic is supplied for informational/educational purposes only.
 .backanno
 .end
