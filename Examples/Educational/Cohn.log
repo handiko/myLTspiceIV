@@ -1,8 +1,8 @@
-Circuit: * C:\Program Files\LTC\LTspiceIV\examples\Educational\Cohn.asc
+Circuit: * Z:\home\handiko\myLTspiceIV\Examples\Educational\Cohn.asc
 
 
-Date: Fri Oct 26 05:18:25 2018
-Total elapsed time: 0.040 seconds.
+Date: Mon Nov 05 19:11:16 2018
+Total elapsed time: 0.056 seconds.
 
 tnom = 27
 temp = 27
